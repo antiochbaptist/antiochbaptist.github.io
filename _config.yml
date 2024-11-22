@@ -13,14 +13,14 @@
 title: Antioch Baptist Church
 
 # Your name to show in the footer
-author: Andrew Sullivan
+author: Antioch Baptist Church
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
